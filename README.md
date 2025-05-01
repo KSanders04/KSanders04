@@ -1,12 +1,12 @@
 # Hello! I'm Kyle. 👋
 
-I am a motivated computer science student concentrating on web and mobile development 🖥️
+I am a motivated computer science student concentrating on web and mobile development and cybersecurity 🖥️
 
 # About me
 
-- 💪 I love working out, hiking, and swimming
-- 🌱 I’m currently learning Javascript and SQL
-- 📫 How to reach me: kyle.sanders@bsu.edu
+- 💪 I love working out, playing sports, hiking, and swimming
+- 🌱 I’m currently learning MySQL and MongoDB
+- 📫 How to reach me: kasanders2004@gmail.com
 
 <!---
 KSanders04/KSanders04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

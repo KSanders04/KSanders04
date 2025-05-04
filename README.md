@@ -3,6 +3,7 @@
 
 
 - 👨‍💻 Concentrating on: **Web/Mobile development and cybersecurity**
+- 🔭 I’m currently working on: [Arcade Menu](https://karter-west.github.io/CS445-FinalProject/)
 - 🌱 I’m currently learning: **React, Vue, and JS**
 - 📫 How to reach me: **kasanders2004@gmail.com**
 - ⚡ Fun fact: **I love working out, playing sports, hiking, and swimming**
